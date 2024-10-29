@@ -7,9 +7,10 @@ I'm an Environmental Engineering, currently doing a Master in Geoinformatics Eng
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroedo)](https://github.com/astroedo/github-readme-stats)
 
 
-### Skils
+### Skils and Expirience 
 
-
+* Programming Languages: Python, MATLAB, SQL, R, C
+* GIS Software: QGIS, ArcGIS;
 
 <!--
 **astroedo/astroedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
