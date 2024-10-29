@@ -9,8 +9,8 @@ I'm an Environmental Engineering, currently doing a Master in Geoinformatics Eng
 
 ### 🧰 Skils and Expirience 
 
-* Programming Languages: Python, MATLAB, SQL, R, C
-* GIS Software: QGIS, ArcGIS;
+* 💻 Programming Languages: Python, MATLAB, SQL, R, C
+* 🗺️GIS Software: QGIS, ArcGIS;
 
 
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
