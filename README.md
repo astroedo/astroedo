@@ -1,13 +1,13 @@
 # Edoardo Pessina
 
-## Still student (Engineer / Astrophotographer / Pianist)
+##'Still student (Engineer / Astrophotographer / Pianist)'##
 
 I'm an Environmental Engineering, currently doing a Master in Geoinformatics Engineering at Politecnico di Milano.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroedo&show_icons=true&theme=radical)
 
 
-### Skils and Expirience 
+### 🧰 Skils and Expirience 
 
 * Programming Languages: Python, MATLAB, SQL, R, C
 * GIS Software: QGIS, ArcGIS;
