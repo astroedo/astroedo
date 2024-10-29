@@ -1,6 +1,6 @@
 # Edoardo Pessina
 
-**'Still student (Engineer / Astrophotographer / Pianist)'**
+**Still student (Engineer / Astrophotographer / Pianist)**
 
 I'm an Environmental Engineering, currently doing a Master in Geoinformatics Engineering at Politecnico di Milano.  
 
