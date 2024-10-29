@@ -4,7 +4,7 @@
 
 I'm an Environmental Engineering, currently doing a Master in Geoinformatics Engineering at Politecnico di Milano.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroedo)](https://github.com/astroedo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro_edo&show_icons=true&theme=radical)
 
 
 ### Skils and Expirience 
