@@ -1,4 +1,15 @@
-## Hi there 👋
+# Edoardo Pessina
+
+## ' Still student (Engineer / Astrophotographer / Pianist)'##
+
+I'm an Environmental Engineering, currently doing a Master in Geoinformatics Engineering at Politecnico di Milano.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroedo)](https://github.com/astroedo/github-readme-stats)
+
+---
+
+### Skils
+
 
 
 <!--
