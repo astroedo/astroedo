@@ -1,4 +1,4 @@
-# 🔭 Edoardo Pessina
+# 🪴 Edoardo Pessina
 
 **Still student (Engineer / Astrophotographer / Pianist)**
 
