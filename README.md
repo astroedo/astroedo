@@ -1,18 +1,22 @@
-# 🪴 Edoardo Pessina
+# 🌍 Edoardo Pessina
 
-**Still studying (Engineer / Astrophotographer / Pianist)**
+** Graduated student | Geoinformatics Engineer | Astrophotographer | Pianist**
 
-I'm an Environmental Engineering, currently doing a Master in Geoinformatics Engineering at Politecnico di Milano.  
+I hold a Bachelor’s degree in Environmental Engineering and am currently pursuing a Master’s in Geoinformatics Engineering at Politecnico di Milano. I’m passionate about data-driven approaches to Earth observation, GIS, and scientific programming, with hands-on experience in both academic research and technical development projects.
 
-### 🧰 Skils and Expirience 
+## 🧰 Skils and Expirience 
 
-* 💻 Programming Languages: Python, MATLAB, SQL, R, C, LaTeX
-* 🗺️GIS Software: QGIS, ArcGIS, GEE;
+### 💻 Programming and Data Science 
+* Languages: Python, R, SQL, MATLAB, C, LaTeX
+* Libraries & Tools: Pandas, NumPy, Matplotlib, Jupyter, Git
 
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+### 🗺️ Geospatial and Earth Observation
+* GIS Software: QGIS, ArcGIS Pro, Google Earth Engine (GEE)
+* Applications: Land cover classification, Glacier Monitoring, Burned area monitoring
+
+### 🔭 Other interests
+* Astrophotography: Deep-Sky imaging, image analysis
+* Music: Classical pianist 
   
 <!--
 **astroedo/astroedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
