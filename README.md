@@ -18,7 +18,6 @@ I hold a Bachelor’s degree in Environmental Engineering and am currently pursu
 * [Lombardia Air quality monitoring] - https://github.com/astroedo/air_quality_analysis.git
 * [Glacier Melting monitoring] - https://github.com/astroedo/Rutor-Glacier-Melting.git
 * German air quality monitoring - https://github.com/astroedo/polimi-GIS2025.git
-* 
 
 ### 🔭 Other interests
 * Astrophotography: Deep-Sky imaging, image calibration and post-processing
