@@ -1,6 +1,6 @@
 # 🌍 Edoardo Pessina
 
-**Graduated student | Geoinformatics Engineer | Astrophotographer | Pianist**
+**Environmnetal engineering | Geoinformatics Engineer student | Astrophotographer **
 
 I hold a Bachelor’s degree in Environmental Engineering and am currently pursuing a Master’s in Geoinformatics Engineering at Politecnico di Milano. I’m passionate about data-driven approaches to Earth observation, GIS, and scientific programming, with hands-on experience in both academic research and technical development projects.
 
