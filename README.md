@@ -1,6 +1,6 @@
 # 🌍 Edoardo Pessina
 
-**Environmnetal engineering | Geoinformatics Engineer student | Astrophotographer **
+**Environmnetal engineering | Geoinformatics Engineer student | Astrophotographer**
 
 I hold a Bachelor’s degree in Environmental Engineering and am currently pursuing a Master’s in Geoinformatics Engineering at Politecnico di Milano. I’m passionate about data-driven approaches to Earth observation, GIS, and scientific programming, with hands-on experience in both academic research and technical development projects.
 
@@ -17,7 +17,7 @@ I hold a Bachelor’s degree in Environmental Engineering and am currently pursu
 ### ✏️ Projects
 * [Lombardia Air quality monitoring] - https://github.com/astroedo/air_quality_analysis.git
 * [Glacier Melting monitoring] - https://github.com/astroedo/Rutor-Glacier-Melting.git
-* German air quality monitoring - https://github.com/astroedo/polimi-GIS2025.git
+* [German air quality monitoring] - https://astroedo.github.io/polimi-GIS2025/
 
 ### 🔭 Other interests
 * Astrophotography: Deep-Sky imaging, image calibration and post-processing
