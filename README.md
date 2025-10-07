@@ -15,8 +15,8 @@ I hold a Bachelor’s degree in Environmental Engineering and am currently pursu
 * Applications: Glacier Monitoring, Land cover classification, Burned area classification
 
 ### ✏️ Projects
-* [🍃Lombardia Air quality monitoring] - https://github.com/astroedo/air_quality_analysis.git
-* [🏔️Glacier Melting monitoring] - https://github.com/astroedo/Rutor-Glacier-Melting.git
+* [🍃Lombardia Air quality data visualization] - https://github.com/astroedo/air_quality_analysis.git
+* [🏔️Glacier Melting temporal classification] - https://github.com/astroedo/Rutor-Glacier-Melting.git
 * [🍃German air quality monitoring] - https://astroedo.github.io/polimi-GIS2025/
 
 ### 🔭 Other interests
