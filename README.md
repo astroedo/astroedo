@@ -8,7 +8,7 @@ I hold a Bachelor’s degree in Environmental Engineering and am currently pursu
 
 ### 💻 Programming and Data Science 
 * Languages: Python, R, SQL, MATLAB, C, LaTeX
-* Libraries & Tools: Pandas, Geopandas, Flask, NumPy, Matplotlib, Jupyter, Psycopg2, PostgreSQL, Git 
+* Libraries & Tools: Pandas, Geopandas, PyTorch, Flask, NumPy, Matplotlib, Jupyter, Psycopg2, PostgreSQL, Git 
 
 ### 🗺️ Geospatial and Earth Observation
 * GIS Software: QGIS, ArcGIS Pro, Google Earth Engine (GEE)
