@@ -1,4 +1,4 @@
-# 🌍 Edoardo Pessina
+# Edoardo Pessina
 
 **M. Sc. Geoinformatics Engineer student | Environmental Engineering**
 
@@ -25,8 +25,3 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 * Details: Processed 10+ years of pollution data, correlating $\text{NO}_2/\text{PM}2.5/\text{PM}10$ with land cover/population
 * Results: Delivered an interactive WebGIS with bivariate mapping and zonal statistics for policy insights
 * Link: https://astroedo.github.io/polimi-GIS2025/
-  
-
-### 🔭 Other interests
-* Science Communicator, Operated telescopes, coordinated observation events, and developed interactive presentations on space missions and solar systems.
-* Astronomy: Deep-Sky imaging, Astrophotography, Space mission analysis
