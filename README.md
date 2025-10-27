@@ -6,23 +6,6 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 
 ---
 
-## Skils and Expirience 
-
-### 💻 Programming and Data Science 
-* Languages: Python, SQL, R, MATLAB, C, LaTeX, Javascript
-* Libraries & Tools: PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Geopandas
-* ML concepts: Supervised/Unsupervised learning, Random Forest, Artificial Neural Networks, Cross Validaiton
-
-### 🗺️ Geospatial and Earth Observation
-* Software: Google Earth Engine (GEE), QGIS, ArcGIS Pro, SNAP, GDAL 
-* Applications: Raster/vector data analysis, spectral indices (NDWI, NDVI, NDSI), working with Landsat and Copernicus Sentinel data
-
-### 🌐 Web Development & Tools
-* Web Dev: Dash, Flask, RESTful APIs, interactive dashboard creation
-* Tools/Platforms: Git/Github, Google Colab, Jupyter Notebook, VS Code, Agile workflow
-
----
-
 ## 🚀 Key Projects
 
 ### Glacier Melting temporal classification 
