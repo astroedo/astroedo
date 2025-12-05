@@ -12,13 +12,13 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 * Technologies: Random Forest, MLP, GEE, Google Colab
 * Details: Developed and applied Random Forest and MLP models on 40 years of Landsat data (1,178 samples) for temporal glacier classification.
 * Results: Achieved 97% accuracy on external validation across Alpine glaciers
-* Link: https://github.com/astroedo/air_quality_analysis.git
+* Link: https://github.com/astroedo/Rutor-Glacier-Melting.git
   
 ### Lombardia Air quality data visualization 
 * Technologies: Python, SQL, Dash, Flask
 * Details: Deployed a data visualization dashboard to analyze 350+ air quality stations
 * Impact: Supports regional policy insights through analysis of air quality data
-* Link:  https://github.com/astroedo/Rutor-Glacier-Melting.git
+* Link: https://github.com/astroedo/air_quality_analysis.git
   
 ### German air quality monitoring 
 * Technologies: Python, QGIS, WebGIS
