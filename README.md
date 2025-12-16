@@ -30,3 +30,4 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 * Technologies: Prithvi & TerraMind GFMs, TerraTorch, PyTorch Lightning, Google Colab
 * Details: Fine-tuned Prithvi EO v2 and TerraMind v1 foundation models on Romania LUCAS ground truth data (100+ samples, 7-band HLS imagery) for 10-class land cover scene classification.
 * Results: Successfully implemented and compared two state-of-the-art geospatial foundation models, demonstrating practical transfer learning for downstream classification tasks with limited training samples.
+* Link: https://github.com/astroedo/TerraMind-Prithvi-LC-Comparison
