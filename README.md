@@ -10,7 +10,7 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 
 ### Glacier Melting temporal classification 
 * Technologies: CNN, Random Forest, MLP, GEE, Google Colab
-* Details: Developed and applied Random Forest and MLP models on 40 years of Landsat data (1,178 samples) for temporal glacier classification.
+* Details: Developed and applied three ML models on 40 years of Landsat data (1,178 samples) for temporal glacier classification.
 * Results: Achieved 99.1% accuracy classifying imbalanced geospatial data, comparing 1D-CNN, MLP, and Random Forest architectures.
 * Link: https://github.com/astroedo/Rutor-Glacier-Melting.git
 
