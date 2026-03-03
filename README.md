@@ -9,9 +9,9 @@ I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. 
 ## 🚀 Key Projects
 
 ### Glacier Melting temporal classification 
-* Technologies: Random Forest, MLP, GEE, Google Colab
+* Technologies: CNN, Random Forest, MLP, GEE, Google Colab
 * Details: Developed and applied Random Forest and MLP models on 40 years of Landsat data (1,178 samples) for temporal glacier classification.
-* Results: Achieved 97% accuracy on external validation across Alpine glaciers
+* Results: Achieved 99.1% accuracy classifying imbalanced geospatial data, comparing 1D-CNN, MLP, and Random Forest architectures.
 * Link: https://github.com/astroedo/Rutor-Glacier-Melting.git
 
 ### TerraMind Land Cover Scene Classification - Romania
