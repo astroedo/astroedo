@@ -2,7 +2,15 @@
 
 **M. Sc. Geoinformatics Engineer student | Environmental Engineering**
 
-I hold a B. Sc. in Environmental Engineering and am currently pursuing a M. Sc. in Geoinformatics Engineering at Politecnico di Milano. I’m passionate about data-driven approaches to Earth observation, GIS, and scientific programming, with hands-on experience in both academic research and technical development projects.
+I bridge Environmental Engineering and Computer Science to build scalable Machine Learning models for Earth Observation. Currently pursuing an M.Sc. in Geoinformatics Engineering at Politecnico di Milano.
+
+### 🛠 Tech Stack
+* **Languages:** Python, C, SQL
+* **ML/AI:** PyTorch, TensorFlow, Scikit-learn, TIMM
+* **Earth Observation:** Google Earth Engine (GEE), GDAL, Rasterio, SNAP
+
+---
+*Open to collaborations on Climate Tech, Remote Sensing, and Applied AI.*
 
 ---
 
