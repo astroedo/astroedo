@@ -4,7 +4,7 @@
 
 I bridge Environmental Engineering and Computer Science to build scalable Machine Learning models for Earth Observation. Currently pursuing an M.Sc. in Geoinformatics Engineering at Politecnico di Milano.
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Languages:** Python, C, SQL
 * **ML/AI:** PyTorch, TensorFlow, Scikit-learn, TIMM
 * **Earth Observation:** Google Earth Engine (GEE), GDAL, Rasterio, SNAP
@@ -14,7 +14,7 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 ### Glacier Melting temporal classification 
 * Technologies: CNN, Random Forest, MLP, GEE, Google Colab
