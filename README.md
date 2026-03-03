@@ -10,9 +10,6 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 * **Earth Observation:** Google Earth Engine (GEE), GDAL, Rasterio, SNAP
 
 ---
-*Open to collaborations on Climate Tech, Remote Sensing, and Applied AI.*
-
----
 
 ## Key Projects
 
