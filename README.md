@@ -1,6 +1,6 @@
 # Edoardo Pessina
 
-**Geoinformatics Engineer | Deep Learning & AI for Earth Observation**
+**Geoinformatics Engineer | Applied Deep Learning to Earth Observation and Climate Systems
 
 I bridge Environmental Engineering and Computer Science to build scalable Machine Learning models for Earth Observation. Currently pursuing an M.Sc. in Geoinformatics Engineering at Politecnico di Milano.
 
