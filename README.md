@@ -31,7 +31,7 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 * Results: Delivered an interactive WebGIS with bivariate mapping and zonal statistics for policy insights
 * Link: https://astroedo.github.io/polimi-GIS2025/
 
-### Transformer ntm Eng to ITA
+### Transformer NMT: English to Italian Translation
 * A complete PyTorch implementation of the Encoder-Decoder architecture (Vaswani et al.) without high-level libraries, featuring Multi-Head Attention, Sinusoidal Positional Encoding, and Pre-Layer Normalization.
 * Replicated the original paper's optimization strategy using Mixed-Precision (FP16), Label Smoothing (ϵ=0.1), and a Learning Rate scheduler with Warmup and Inverse Square Root Decay.
 * Integrated Beam Search decoding with length normalization and conducted rigorous quantitative evaluation using Corpus BLEU scores and Cross-Attention map visualizations.
