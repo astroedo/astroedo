@@ -25,14 +25,13 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 * Results: Successfully implemented and compared two state-of-the-art geospatial foundation models, demonstrating practical transfer learning for downstream classification tasks with limited training samples.
 * Link: https://github.com/astroedo/TerraMind-Prithvi-LC-Comparison
   
-### Lombardia Air quality data visualization 
-* Technologies: Python, SQL, Dash, Flask
-* Details: Deployed a data visualization dashboard to analyze 350+ air quality stations
-* Impact: Supports regional policy insights through analysis of air quality data
-* Link: https://github.com/astroedo/air_quality_analysis.git
-  
 ### German air quality monitoring 
 * Technologies: Python, QGIS, WebGIS
 * Details: Processed 10+ years of pollution data, correlating $\text{NO}_2/\text{PM}2.5/\text{PM}10$ with land cover/population
 * Results: Delivered an interactive WebGIS with bivariate mapping and zonal statistics for policy insights
 * Link: https://astroedo.github.io/polimi-GIS2025/
+
+### Transformer ntm Eng to ITA
+* A complete PyTorch implementation of the Encoder-Decoder architecture (Vaswani et al.) without high-level libraries, featuring Multi-Head Attention, Sinusoidal Positional Encoding, and Pre-Layer Normalization.
+* Replicated the original paper's optimization strategy using Mixed-Precision (FP16), Label Smoothing (ϵ=0.1), and a Learning Rate scheduler with Warmup and Inverse Square Root Decay.
+* Integrated Beam Search decoding with length normalization and conducted rigorous quantitative evaluation using Corpus BLEU scores and Cross-Attention map visualizations.
