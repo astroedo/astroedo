@@ -19,17 +19,17 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 * Integrated Beam Search decoding with length normalization and conducted rigorous quantitative evaluation using Corpus BLEU scores and Cross-Attention map visualizations.
 * Link: https://github.com/astroedo/Transformer-nmt-en-it
 
+### ESA Phi-Lab GeoFM Challenge — Embed2Heights
+* Technologies: PyTorch, Geospatial Foundation Models (TerraMind, AlphaEarth, Tessera, THOR), Mixed-Precision Training (AMP), Google Colab
+* Details: Designed a multi-modal fusion network (SE-UNet, ASPP, cross-attention, dual bin-classification height heads) combining embeddings from 4 GFMs for joint land cover segmentation and nDSM height regression on 256×256 satellite patches.
+* Results: Scored 0.4130 on the challenge leaderboard; diagnosed and fixed a silent FP16 overflow that blocked training, and built a crash-safe pipeline (RAM/SSD caching, auto-resume, TTA, multi-seed ensembling) for preemptible GPUs.
+* Link: https://github.com/astroedo/ESA-GeoFM-Challenge
+
 ### Glacier Melting temporal classification 
 * Technologies: CNN, Random Forest, MLP, GEE, Google Colab
 * Details: Developed and applied three ML models on 40 years of Landsat data (1,178 samples) for temporal glacier classification.
 * Results: Achieved 99.1% accuracy classifying imbalanced geospatial data, comparing 1D-CNN, MLP, and Random Forest architectures.
 * Link: https://github.com/astroedo/Rutor-Glacier-Melting.git
-
-### TerraMind Land Cover Scene Classification - Romania
-* Technologies: Prithvi & TerraMind GFMs, TerraTorch, PyTorch Lightning, Google Colab
-* Details: Fine-tuned Prithvi EO v2 and TerraMind v1 foundation models on Romania LUCAS ground truth data (100+ samples, 7-band HLS imagery) for 10-class land cover scene classification.
-* Results: Successfully implemented and compared two state-of-the-art geospatial foundation models, demonstrating practical transfer learning for downstream classification tasks with limited training samples.
-* Link: https://github.com/astroedo/TerraMind-Prithvi-LC-Comparison
   
 ### German air quality monitoring 
 * Technologies: Python, QGIS, WebGIS
