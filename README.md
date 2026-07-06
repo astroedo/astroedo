@@ -6,8 +6,10 @@ I bridge Environmental Engineering and Computer Science to build scalable Machin
 
 ### Tech Stack
 * **Languages:** Python, C, SQL, Matlab, R
-* **ML/AI:** PyTorch, TensorFlow, Scikit-learn, TIMM
-* **Earth Observation:** Google Earth Engine (GEE), GDAL, Rasterio, SNAP
+* **ML & DL:** PyTorch, TensorFlow/Keras, Scikit-learn, TIMM, TerraTorch (PyTorch Lightning)
+* **Architecture**: Transformer / ViT, CNNs, LSTMs, Encoder-Decoder, Foundational Model Fine-tuning, Ensemble Models
+* **Big Data & Systems**: MongoDB, Cassandra, Elasticsearch, Neo4J, Redis, PostgreSQL, Flask, Dash
+* **Earth Observation:** Google Earth Engine (GEE), GDAL, Rasterio, SNAP, QGIS, ArcGIS Pro, Copernicus/CAMS
 
 ---
 
